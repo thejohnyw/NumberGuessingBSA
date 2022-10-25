@@ -14,7 +14,7 @@ To run and play the game, first change directory to where you want to download t
    
 run the main Py script (game.py); (no need for installing dependencies for this)
 
-    python3 run game.py
+    python3 game.py
     
     
     
